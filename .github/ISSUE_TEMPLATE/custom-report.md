@@ -1,13 +1,13 @@
 ---
 name: "🕵 Audit testing"
-about: Description of the audit testing
-title: "[audit] custom-report:"
+about: Report of the audit testing
+title: "Custom audit report testing:"
 labels: [🐞bug, audit]
 assignees: BLOCKCHAINDEVWEB
 ---
 
 ## To Reproduce
-**Referral links**: 
+**Referral links**📚:
 - Workflows that are involved in performing this audit:  
 
 **Environments**:
@@ -22,23 +22,23 @@ Steps to reproduce the behavior:
 
 **Additional context**:
 - Other context about the audit testing here:  
-> 
+> ```
 
-## Why is the audit test related to an issue?
+## Why is the audit test related to an issue? 🔔
 A clear and concise description of what the problem is:  
-> 
+> ```
 
 **Expected behavior**
 - A clear and concise description of what you expected to happen.  
-> 
+> ```
 
-## Description of the desired solution
+## Description of the desired solution 👨‍💼
 A clear and concise description of what you want to happen:  
-> 
+> ```
 
 **Describe alternatives you've considered**:
 - A clear and concise description of any alternative solutions or features you've considered:  
->  
+> ```
 
 **Screenshots**:
 - Screenshots to help explain your problem:  
