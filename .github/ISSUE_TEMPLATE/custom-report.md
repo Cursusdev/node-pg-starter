@@ -1,40 +1,44 @@
 ---
-name: "🐞 Audit testing"
-about: Description of the test
+name: "🕵 Audit testing"
+about: Description of the audit testing
 title: "[audit] custom-report:"
-labels: [bug, audit]
+labels: [🐞bug, audit]
 assignees: BLOCKCHAINDEVWEB
 ---
 
-**Referral links**
-Related to the workflows that are involved in performing this audit.
+## To Reproduce
+**Referral links**: 
+- Workflows that are involved in performing this audit:
 
-**To Reproduce**
-
-Environnements:
-| local | prod 
-| -- | -- |
-| <ul><li>- [ ] Bot[^1]</li><li>- [ ] Monitor</li><li>- [ ] Dapp</li><li>- [ ] Dashboard</li><li>- [ ] Website</li></ul> | <ul><li>- [x] Bot</li><li>- [x] Monitor</li><li>- [x] Dapp</li><li>- [x] Dashboard</li><li>- [x] Website</li></ul> |
-[^1]: Heroku hosting.
-
-
+**Environments**:
+local | prod | Github App
+-- | -- | --
+| <ul><li>- [ ] Bot</li><li>- [ ] Monitor</li><li>- [ ] Dapp</li><li>- [ ] Dashboard</li><li>- [ ] Website</li><li>- [ ] Postgres</li></ul><br/> | <ul><li>- [x] Bot[^1]</li><li>- [x] Monitor[^1]</li><li>- [x] Dapp[^2]</li><li>- [x] Dashboard[^2]</li><li>- [ ] Website[^2]</li><li>- [x] Postgres[^1]</li></ul> | <ul><li>- [x] production[^3]</li><li>- [ ] custom</li></ul> |
+[^1]: hosted in Heroku.
+[^2]: hosted in Vercel.
+[^3]: Github App Feature-bot.
 
 Steps to reproduce the behavior:
 
-**Additional context**
-Add any other context about the feature request here.
+**Additional context**:
+- Other context about the audit testing here:
+>
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is.
+## Why is the audit test related to an issue?
+A clear and concise description of what the problem is:
+>
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+- A clear and concise description of what you expected to happen.
+>
 
-**Describe the solution you'd like**
+## Description of the desired solution
 A clear and concise description of what you want to happen.
+>
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Describe alternatives you've considered**:
+- A clear and concise description of any alternative solutions or features you've considered:
+>
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots**:
+- Screenshots to help explain your problem:
