@@ -14,7 +14,7 @@ Related to the workflows that are involved in performing this audit.
 | Environnements | |
 | -- | -- |
 | local | prod |
-| <ul><li style="list-style: none;">[x] Dapp</li></ul>  | <ul><li style="list-style: none;">[x] Dapp</li></ul> |
+| <ul><li>- [x] Dapp</li></ul>  | <ul><li style="list-style: none;">- [x] Dapp</li></ul> |
 
 
 Steps to reproduce the behavior:
