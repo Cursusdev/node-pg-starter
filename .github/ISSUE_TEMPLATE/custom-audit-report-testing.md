@@ -42,5 +42,5 @@ A clear and concise description of what you want to happen:
 > ```
 
 ## Screenshots
-Screenshots to help explain your problem:  
+Screenshots to help explain the problem:  
 > ```
