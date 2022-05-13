@@ -1,21 +1,22 @@
 ---
-name: "✨ Feature tests"
+name: "🐞 Audit testing"
 about: Description of the test
-title: "[BUG] custom-report:"
-labels: [bug, enhancement]
+title: "[audit] custom-report:"
+labels: [bug, audit]
 assignees: BLOCKCHAINDEVWEB
 ---
 
-**Introduce**
-1. With a title
-2. With a short description
-
 **Referral links**
-1. Test
-2. Discussion
-3. Discord
+Related to the workflows that are involved in performing this audit.
 
 **To Reproduce**
+
+| Environnements | |
+| -- | -- |
+| local | prod |
+| <ul><li style="list-style: none;">[x] Dapp</li></ul>  | <ul><li style="list-style: none;">[x] Dapp</li></ul> |
+
+
 Steps to reproduce the behavior:
 
 **Additional context**
