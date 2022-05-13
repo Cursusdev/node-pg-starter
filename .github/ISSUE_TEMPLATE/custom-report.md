@@ -1,7 +1,7 @@
 ---
 name: "✨ Feature tests"
 about: Description of the test
-title: 'custom-report:'
+title: "custom-report:"
 labels: enhancement
 assignees: BLOCKCHAINDEVWEB
 ---
