@@ -8,7 +8,7 @@ assignees: BLOCKCHAINDEVWEB
 
 ## To Reproduce
 **Referral links**: 
-- Workflows that are involved in performing this audit:
+- Workflows that are involved in performing this audit:  
 
 **Environments**:
 local | prod | Github App
@@ -18,27 +18,27 @@ local | prod | Github App
 [^2]: hosted in Vercel.
 [^3]: Github App Feature-bot.
 
-Steps to reproduce the behavior:
+Steps to reproduce the behavior:  
 
 **Additional context**:
-- Other context about the audit testing here:
->
+- Other context about the audit testing here:  
+> 
 
 ## Why is the audit test related to an issue?
-A clear and concise description of what the problem is:
->
+A clear and concise description of what the problem is:  
+> 
 
 **Expected behavior**
-- A clear and concise description of what you expected to happen.
->
+- A clear and concise description of what you expected to happen.  
+> 
 
 ## Description of the desired solution
-A clear and concise description of what you want to happen.
->
+A clear and concise description of what you want to happen:  
+> 
 
 **Describe alternatives you've considered**:
-- A clear and concise description of any alternative solutions or features you've considered:
->
+- A clear and concise description of any alternative solutions or features you've considered:  
+>  
 
 **Screenshots**:
-- Screenshots to help explain your problem:
+- Screenshots to help explain your problem:  
