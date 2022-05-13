@@ -11,10 +11,12 @@ Related to the workflows that are involved in performing this audit.
 
 **To Reproduce**
 
-| Environnements | |
+Environnements:
+| local | prod 
 | -- | -- |
-| local | prod |
-| <ul><li>- [ ] Dapp</li></ul>  | <ul><li>- [ ] Dapp</li><li>- [ ] Bot</li></ul> |
+| <ul><li>- [ ] Bot[^1]</li><li>- [ ] Monitor</li><li>- [ ] Dapp</li><li>- [ ] Dashboard</li><li>- [ ] Website</li></ul> | <ul><li>- [x] Bot</li><li>- [x] Monitor</li><li>- [x] Dapp</li><li>- [x] Dashboard</li><li>- [x] Website</li></ul> |
+[^1]: Heroku hosting.
+
 
 
 Steps to reproduce the behavior:
